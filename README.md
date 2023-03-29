@@ -1,2 +1,2 @@
-# ML_TermProject
-머신러닝 텀프로젝트 [영화 추천시스템]
+# 2022-Machine-Learning-Movie-recommendation
+2022-2 Machine Learning Term Project(Movie recommendation)
